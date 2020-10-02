@@ -1,0 +1,2 @@
+exports.PREFIX = `!`
+exports.Token = ``
